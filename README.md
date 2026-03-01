@@ -39,5 +39,5 @@ This attack exploits IP packet fragmentation. The attacker forces the resolver t
 *   `/Docs`: Reference papers and Presentation slides.
 
 ## 👥 Authors
-*   Giacomo Lombardi
-*   Nicolò Zarulli
+*   Nicolò Zarulli @[Bitrath](https://github.com/Bitrath)
+*   Giacomo Lombardi @[LombardiGiacomo](https://github.com/LombardiGiacomo)
